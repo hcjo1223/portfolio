@@ -3,7 +3,7 @@
 ### 프로젝트
 
 
-[여행일정 공유커뮤니티 (바로가기)](https://github.com/hcjo1223/today_trip)
+[여행일정 공유커뮤니티 (코드 바로가기)](https://github.com/hcjo1223/today_trip)
 
 ### 개요
 * 여행일정 공유 커뮤니티
